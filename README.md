@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fercho
 - 👀 I’m interested in technology and networks
-- 🌱 I’m currently learning how the virtual world works
+- 🌱 I’ve a slight knowledge on html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
